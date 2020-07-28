@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jay8299&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/jay8299/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay8299&layout=compact&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay8299&layout=compact&theme=onedark" />
 </a>
 
 <!--
