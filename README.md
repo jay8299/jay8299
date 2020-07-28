@@ -22,6 +22,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jay8299&repo=convoychat" />
 </a>
 
-![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=jay8299&count_private=true&show_icons=true&theme=onedark)
+- ![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=jay8299&count_private=true&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay8299&layout=compact&theme=onedark)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay8299&layout=compact&theme=onedark)
