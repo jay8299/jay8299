@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 <!--
 
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Devops and AWS
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Python,Java, JS, Devops, Web Dev Technologies
+- 📫 How to reach me: lathah067@gmail.com
+
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jay8299&count_private=true&show_icons=true&theme=onedark" />
 </a>
