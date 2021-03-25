@@ -22,14 +22,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python,Java, JS, Devops, Web Dev Technologies
 - 📫 How to reach me: lathah067@gmail.com
 
-<a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jay8299&count_private=true&show_icons=true&theme=onedark" />
-</a>
-<a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay8299&layout=compact&theme=onedark" />
-</a>
 
-- ![Vijay's github stats]
+
+- ![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=jay8299&count_private=true&show_icons=true&theme=onedark)
 
 -->
 
