@@ -1,6 +1,7 @@
 ### Hello there 👋  
 
-I am Vijay
+## I am Vijay Kumar
+
 
 <!--
 **jay8299/jay8299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,5 +45,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python,Java, JS, Devops, Web Dev Technologies
 - 📫 Get in Touch with me: lathah067@gmail.com
 
+![](https://komarev.com/ghpvc/?jay8299)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay8299&layout=compact)
