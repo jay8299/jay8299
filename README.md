@@ -1,4 +1,6 @@
-### Hello there 👋   I am Vijay
+### Hello there 👋  
+
+I am Vijay
 
 <!--
 **jay8299/jay8299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +18,12 @@ Here are some ideas to get you started:
 -->
 <!--
 
-#- 🔭 I’m currently working on Web Development
-#- 🌱 I’m currently learning Devops and AWS
+- ✨ I'm a Full stack devloper.
+#- 🔭 Ask Me about Spring, Node, React, AWS, DevOps.
+- 🌱 Currently learning Distributed systems
 #- 🤔 I’m looking for help with 
-#- 💬 Ask me about Python,Java, JS, Devops, Web Dev Technologies
-#- 📫 How to reach me: lathah067@gmail.com
+- 💬 Ask me about Python,Java, JS, Devops, Web Dev Technologies
+- 📫 Get in Touch with me: lathah067@gmail.com
 
 
 
@@ -34,7 +37,12 @@ Here are some ideas to get you started:
 - ![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=jay8299&count_private=true&show_icons=true&theme=onedark)
 
 -->
-
+- ✨ I'm a Full stack devloper.
+#- 🔭 Ask Me about Spring, Node, React, AWS, DevOps.
+- 🌱 Currently learning Distributed systems
+#- 🤔 I’m looking for help with 
+- 💬 Ask me about Python,Java, JS, Devops, Web Dev Technologies
+- 📫 Get in Touch with me: lathah067@gmail.com
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay8299&layout=compact)
