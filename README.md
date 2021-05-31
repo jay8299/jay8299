@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning Distributed systems
 #- 🤔 I’m looking for help with 
 - 💬 Ask me about Python,Java, JS, Devops, Web Dev Technologies
-- 📫 Get in Touch with me: lathah067@gmail.com
-
+- 📫 Get in Touch with me:
 
 
 
@@ -48,7 +47,6 @@ Here are some ideas to get you started:
 
 - 💬  Ask me about **spring, react, node**
 
-- 📫  How to reach me **lathah067@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
