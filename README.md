@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 - ✨ I'm a Full stack devloper.
 - 🌱 Currently learning Distributed systems
 - 💬 Ask me about Python, Java, JS, AWS, Devops, Web Dev Tech.
-- 📫 Get in Touch with me: 
+- 📫 Get in Touch 
   
-     ![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
+     ![![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vk8299)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay8299&layout=compact)
