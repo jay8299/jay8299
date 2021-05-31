@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Java, JS, AWS, Devops, Web Dev Tech.
 - 📫 Get in Touch with me: 
   
-      ![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
+     ![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay8299&layout=compact)
