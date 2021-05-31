@@ -38,21 +38,21 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay8299&label=Profile%20views&color=0e75b6&style=flat" alt="jay8299" /> </p>
 
-- 🔭 I’m currently working on **Spring,Node,React,Angular Projects**
+- 🔭  I’m currently working on **Spring,Node,React,Angular Projects**
 
-- 🌱 I’m currently learning **Docker,Kubernetes**
+- 🌱  I’m currently learning **Docker,Kubernetes**
 
-- 👯 I’m looking to collaborate on **DevOps**
+- 👯  I’m looking to collaborate on **DevOps**
 
-- 🤝 I’m looking for help with **Distributed Systems, Microservices**
+- 🤝  I’m looking for help with **Distributed Systems, Microservices**
 
-- 💬 Ask me about **spring, react, node**
+- 💬  Ask me about **spring, react, node**
 
-- 📫 How to reach me **lathah067@gmail.com**
+- 📫  How to reach me **lathah067@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vk8299" target="blank"><img align="center" src="https://github.com/jay8299/jay8299/blob/master/linkedin.svg" alt="vk8299" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vk8299" target="blank"><img align="center" src="https://github.com/jay8299/jay8299/blob/master/linkedin.svg" alt="vk8299" height="30" width="40" color="white" /></a>
 <a href="https://www.codechef.com/users/vijay8299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vijay8299" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vjay33" target="blank"><img align="center" src="https://github.com/jay8299/jay8299/blob/master/leetcode.svg" alt="vjay33" height="30" width="40" /></a>
 </p>
