@@ -1,8 +1,3 @@
-### Hello there 👋  
-
-## I'm Vijay Kumar
-
-
 <!--
 **jay8299/jay8299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
