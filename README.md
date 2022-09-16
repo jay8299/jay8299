@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vk8299" target="blank"><img align="center" src="https://github.com/jay8299/jay8299/blob/master/linkedin.svg" alt="vk8299" height="30" width="40" color="white" /></a>
+<!--
 <a href="https://www.codechef.com/users/vijay8299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vijay8299" height="30" width="40" /></a>
+-->
 <a href="https://www.leetcode.com/vjay33" target="blank"><img align="center" src="https://github.com/jay8299/jay8299/blob/master/leetcode.svg" alt="vjay33" height="30" width="40" /></a>
 </p>
 
